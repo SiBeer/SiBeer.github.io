@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Physicist"
   location         : "Forschungszentrum Jülich"
-  employer         : "Institut für Neurowissenschaften und Medizin (INM-2)"
+  employer         : "INM-2"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Simone-Beer"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/simonebeer/"
   orcid            : "http://orcid.org/0000-0003-4290-4051"
   pinterest        :
   soundcloud       :
