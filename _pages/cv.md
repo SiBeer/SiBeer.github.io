@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Physics, University of Münster, 1992
+* PhD in Physics, Forschungszentrum Jülich (ZEL) and University of Münster, 1993-1997
+* Postdoctoral Fellow, Forschungszentrum Jülich (ZEL), 1997-2001
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Scientist (permanent staff), Forschungszentrum Jülich (ZEL), 2001-2013
+  * Methodology for high-resolution positron-emission tomographs and multimodal imaging.
+  * Development of detector systems for dedicated high-resolution positron-emission tomographs.
+  * Development and validation of algorithms and correction methods for tomographic image reconstruction.
+  * Development of performance evaluation procedures for high-resolution PET.
+* Scientist (permanent staff), Forschungszentrum Jülich (INM-2), 2013-present
+  * Methodological aspects and evaluation of PET and hybrid imaging (PET/MRI) with a focus on PET image quality and quantification for neuroscientific applications.
+  * Population based studies with respect to sleep and neurodegeneration.
+  * Medical physics expert
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Advanced Training and Certificates
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Certified medical physics expert in radiation protection (MPE Nuklearmedizin) (2013)
+* Technical Qualification of Radiation Protection Officers (S4.1) (2013)
+* Coaching and Mentoring Program, Forschungszentrum Jülich and EAF Berlin (2000-2002)
+* Correspondance Course, Medical Physics, University of Kaiserslautern (1994-1997)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
