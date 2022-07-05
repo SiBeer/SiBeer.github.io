@@ -12,9 +12,9 @@ Sleep and circadian rhythms are fundamental in biological organisms, and growing
 
 My major research interest is the development and performance evaluation of advanced neuroimaging and machine learning methods to study the link between sleep, circadian variation, and neurodegeneration. The main research topics are:
 
-- The use of explainable AI to extract new information from multi-omics data
-- Phantom development for hybrid MRI/PET
-- PET imaging in awake animals (SleepLess Project)
-- Quantitative PET
+* The use of explainable AI to extract new information from multi-omics data
+* Phantom development for hybrid MRI/PET
+* PET imaging in awake animals (SleepLess Project)
+* Quantitative PET
 
 I teach PET technique, radiation protection and mathematics within the Module "Experimental and Translational Neuroimaging" of the Master Programme Translational Neuroscience at Heinrich-Heine-University (HHU) Düsseldorf.
