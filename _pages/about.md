@@ -17,4 +17,3 @@ My major research interest is the development and performance evaluation of adva
 * PET imaging in awake animals (SleepLess Project)
 * Quantitative PET
 
-I teach PET technique, radiation protection and mathematics within the Module "Experimental and Translational Neuroimaging" of the Master Programme Translational Neuroscience at Heinrich-Heine-University (HHU) Düsseldorf.
