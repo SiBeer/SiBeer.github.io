@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
 Pierling, A. L., E.-M. Elmenhorst, D. Lange, E. Hennecke, D. M. Baur, S. Beer, T. Kroll, B. Neumaier, D. Aeschbach, A. Bauer, H.-P. Landolt and D. Elmenhorst (2021). "Cerebral A1 adenosine receptor availability in female and male participants and its relationship to sleep." NeuroImage 245: 118695.
 
