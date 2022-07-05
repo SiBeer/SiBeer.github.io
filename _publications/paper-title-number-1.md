@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Suitability of [18F]Altanserin and PET to Determine 5-HT2A Receptor Availability in the Rat Brain: In Vivo and In Vitro Validation of Invasive and Non-Invasive Kinetic Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper-title-number-1
+excerpt: ''
+date: 2013
+venue: 'Molecular Imaging and Biology'
+paperurl: 'https://doi.org/10.1007/s11307-013-0621-3'
+citation: 'Kroll, T., D. Elmenhorst, A. Matusch, F. Wedekind, A. Weisshaupt, S. Beer and A. Bauer (2013). "Suitability of [18F]Altanserin and PET to Determine 5-HT2A Receptor Availability in the Rat Brain: In Vivo and In Vitro Validation of Invasive and Non-Invasive Kinetic Models." Molecular Imaging and Biology 15(4): 456-467.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kroll, T., D. Elmenhorst, A. Matusch, F. Wedekind, A. Weisshaupt, S. Beer and A. Bauer (2013). "Suitability of [18F]Altanserin and PET to Determine 5-HT2A Receptor Availability in the Rat Brain: In Vivo and In Vitro Validation of Invasive and Non-Invasive Kinetic Models." Molecular Imaging and Biology 15(4): 456-467.
