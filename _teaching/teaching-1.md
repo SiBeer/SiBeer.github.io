@@ -11,4 +11,5 @@ location: "Düsseldorf, Germany"
 * PET technique
 * Radiation Protection
 * Mathematics 
+* Supervision of students for Lab Rotation, Pilot Project, Project Proposal and Master Thesis 
 
