@@ -12,4 +12,5 @@ title: "Teaching"
 * PET technique
 * Radiation Protection
 * Mathematics
-* Supervision
+* Supervision of students in Lab rotation, Pilot Project, Project Proposal and Master thesis
+
