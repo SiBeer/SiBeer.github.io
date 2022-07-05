@@ -5,8 +5,8 @@ title: "Teaching"
 
 ## Heinrich-Heine-University (HHU), Düsseldorf, Germany
 
-### Master Programme Translational Neuroscience 
-#### Experimental and Translational Neuroimaging
+### [Master Programme Translational Neuroscience](https://www.translationalneuroscience.hhu.de/) 
+### Experimental and Translational Neuroimaging
 
 
 * PET technique
