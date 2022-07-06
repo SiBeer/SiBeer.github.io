@@ -1,6 +1,6 @@
 ---
-title: "3D printing"
-excerpt: "Phantom development for hybrid MRI/PET <br/><img src='/images/400dpiLogo_1500px.jpg' width='200'>"
+title: "3D printing lab"
+excerpt: "Phantom development for hybrid MRI/PET <br/><img src='/images/Kiss200.jpg' width='100'>"
 collection: portfolio
 ---
 ## Phantom development for hybrid MRI/PET
@@ -10,7 +10,7 @@ collection: portfolio
 
 
 ### Methodological aspects
-
+Searching for materials, compositions and construction options to build a PET phantom with tissue equivalent properties for MRI. Shall be used as ground truth for method development and evaluation in attenuation and motion correction, image reconstruction using anatomical priors and for general image quality assessment.
 
 ### Funding
 This project is funded in part by the [Palestinian-German Science Bridge](https://www.palast.ps/en/what-we-do/science-bridges/pgsb).
