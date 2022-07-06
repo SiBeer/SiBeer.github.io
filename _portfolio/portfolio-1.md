@@ -1,9 +1,9 @@
 ---
-title: "SleepLess Project"
+title: "SleepLess"
 excerpt: "Imaging synaptic plasticity in therapeutic sleep deprivation for major depression <br/><img src='/images/400dpiLogo_1500px.jpg' width='200'>"
 collection: portfolio
 ---
-##Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
+## Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
 
 ![SleepLess Partners](/images/SleepLess-Header_Logos.jpg)
 
@@ -12,6 +12,12 @@ Patients with major depression benefit from therapeutic sleep deprivation. The c
 
 We propose that synaptic density determined with PET has the power to become a biomarker for the success of therapeutic sleep deprivation and thus providing means for future stratifications of different therapies in major depression. Identifying and understanding the mechanisms that mediate the effects of sleep restriction is necessary to develop effective interventions. This project will test a model that can be used to improve schedule design.
 
+### Methodological aspects
+Neuroreceptor PET studies are commonly analyzed by applying tracer kinetic models to the PET data, with the distribution volume (VT) or the binding potential (BP) as the outcome measure. Both reflect the densities of target proteins in a brain region of interest. A tracer kinetic model requires quantitative PET image data. We have therefore worked with the our partner from the [ Molecular Imaging Center Antwerp](https://www.uantwerpen.be/en/research-groups/mica/) to improve and assess the image quality and quantitative accuracy for PET scans of moving objects, with motion correction based on radioactive point sources.
+
+### Funding
 This project is funded under the umbrella of the ERA-NET NEURON JTC 2017 ‘Synaptic Dysfunction’. 
 
 ![SleepLess Partners BMBF FRQS FWO](/images/SleepLess_partners.png)
+
+More on the SleepLess Project: [www.sleepless.pet](http://sleepless.pet/)
