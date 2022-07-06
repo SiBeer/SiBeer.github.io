@@ -1,6 +1,6 @@
 ---
 title: "SleepLess Project"
-excerpt: "Imaging synaptic plasticity in therapeutic sleep deprivation for major depression<br/><img src='/images/SleepLessMediumSquareLogo.png'>"
+excerpt: "Imaging synaptic plasticity in therapeutic sleep deprivation for major depression<br/><img src='/images/400dpiLogo_1500px.jpg'>"
 collection: portfolio
 ---
 
