@@ -7,6 +7,7 @@ collection: portfolio
 
 
 ### About the project
+Phantom measurements for PET/MRI hybrid imaging technology, which combines MRI soft tissue morphological imaging with PET functional imaging, are of strong interest for improving, tuning and analyzing the performance of the scanners and as a ground truth for method development and evaluation in attenuation and motion correction, image reconstruction and general image quality assessment.  
 
 
 ### Methodological aspects
