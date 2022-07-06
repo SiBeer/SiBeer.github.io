@@ -10,19 +10,4 @@ We propose that synaptic density determined with PET has the power to become a b
 
 This project is funded under the umbrella of the ERA-NET NEURON JTC 2017 ‘Synaptic Dysfunction’. 
 
-<div class="wp-block-columns has-2-columns">
-<div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://sleepless.pet/sleepless/wp-content/uploads/2019/09/BMBF_gefoerdert_2017_en_fuer_Internet.jpg" alt="" class="wp-image-106" height="100"/></figure></div>
-</div>
-
-
-
-<div class="wp-block-column">
-<figure class="wp-block-image is-resized"><img src="http://sleepless.pet/wp-content/uploads/2019/09/Logo_Quebec.png" alt="Logo Fonds de recherche Sante Quebec" class="wp-image-143"  height="50"/></figure>
-
-
-
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="http://sleepless.pet/sleepless/wp-content/uploads/2019/08/FWO_Logo_ResearchFondationFlanders_Kleur.jpg" alt="Logo-FondsWetenschappelijkOnderzoek_RGB" class="wp-image-102"  height="30"/></figure></div>
-</div>
-</div>
-
+![SleepLess Partners BMBF FRQS FWO](/images/SleepLess_partners.png)
