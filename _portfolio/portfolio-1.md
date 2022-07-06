@@ -1,6 +1,6 @@
 ---
 title: "3D printing lab"
-excerpt: "Phantom development for hybrid MRI/PET <br/><img src='/images/Kiss200.jpg' width='100'>"
+excerpt: "Phantom development for hybrid MRI/PET <br/><br/><img src='/images/Kiss200.jpg' width='100'>"
 collection: portfolio
 ---
 ## Phantom development for hybrid MRI/PET
