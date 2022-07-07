@@ -23,4 +23,4 @@ This project is funded in part by the [Palestinian-German Science Bridge](https:
 * Rheinisch-Westfälische Technische Hochschule Aachen (RWTH-Aachen)
 
 **Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
