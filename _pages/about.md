@@ -17,6 +17,6 @@ Sleep and circadian rhythms are fundamental in biological organisms, and growing
 * The use of explainable AI to extract new information from multi-omics data
 * Phantom development for hybrid MRI/PET
 * PET imaging in awake animals (SleepLess Project)
-* Quantitative PET
+* Hybrid MRI/PET
 
 I am always happy to welcome motivated people. Just contact me via si.beer@fz-juelich.de.
