@@ -1,5 +1,5 @@
 ---
-title: "3D printing lab"
+title: "3D Printing"
 excerpt: "Phantom development for hybrid MRI/PET <br/><br/><img src='/images/Kiss200.jpg' width='100'>"
 collection: portfolio
 ---
@@ -15,7 +15,12 @@ Searching for materials, compositions and construction options to build a PET ph
 
 ### Funding
 This project is funded in part by the [Palestinian-German Science Bridge](https://www.palast.ps/en/what-we-do/science-bridges/pgsb).
-
 ![Palestinian German Science Bridge](/images/PGSB Logo_0.jpg)
 
+### Partners
+* Central Institute for Engineering, Electronics and Analytics -Engineering and Technology (ZEA-1), Forschungszentrum Jülich
+* Palestine Technical University – Kadoorie (PTUK)
+* Rheinisch-Westfälische Technische Hochschule Aachen (RWTH-Aachen)
+
+**Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
