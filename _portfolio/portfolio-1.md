@@ -24,5 +24,5 @@ This project is funded in part by the [Palestinian-German Science Bridge](https:
 * Imaging Core Facility (ICF), Forschungszentrum Jülich
 * Jülich Centre for Neutron Science (JCNS), Forschungszentrum Jülich
 
-**Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020**
+**Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020, awarded with "Best presentation for PhD Candidate"**
 <iframe width="280" height="157" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
