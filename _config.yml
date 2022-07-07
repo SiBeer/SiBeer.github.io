@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Simone Beer"
   avatar           : "profile.png"
-  bio              : "Physicist,  Institute of Neuroscience and Medicine, Molecular Organization of the Brain (INM-2) of the Research Center Jülich, Germany"
-  location         : "Forschungszentrum Jülich"
-  employer         : "INM-2"
+  bio              : "Physicist,  Institute of Neuroscience and Medicine, Molecular Organization of the Brain (INM-2), Research Center Jülich, Germany"
+  location         : 
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao"
   email            : ""
