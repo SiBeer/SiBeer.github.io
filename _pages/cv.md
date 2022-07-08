@@ -33,6 +33,5 @@ Advanced Training and Certificates
 ======
 * Certified medical physics expert in radiation protection (MPE Nuklearmedizin) (2013)
 * Technical Qualification of Radiation Protection Officers (S4.1) (2013)
-* Coaching and Mentoring Program, Forschungszentrum Jülich and EAF Berlin (2000-2002)
-* Correspondance Course, Medical Physics, University of Kaiserslautern (1994-1997)
+* Didactic training, Faculty of Medicine, RWTH Aachen University (2019)
 
