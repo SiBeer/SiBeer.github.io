@@ -3,7 +3,7 @@ permalink: /team/
 title: "Team"
 ---
 
-
+I am always happy to welcome motivated people. Just contact me via si.beer@fz-juelich.de.
 
 ## Alumni
 

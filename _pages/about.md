@@ -14,4 +14,3 @@ My major research interest is the methodology of **advanced neuroimaging and mac
 
 Sleep and circadian rhythms are fundamental in biological organisms, and growing evidence indicates that they are associated with several major neurodegenerative disorders. Functional and structural neuroimaging with positron emission tomography (PET) and magnetic resonance imaging (MRI) allows to study the effect of sleep on the brain as well as to image biomarkers of neurodegenerative diseases. Artificial intelligence and machine learning with open-science multi-omics data can be used to study the relationship between environmental factors, lifestyle, genetics and neurodegenerative diseases. These **highly interdisciplinary** approches often require **methodology which goes beyond the state of the art**.
 
-I am always happy to welcome motivated people. Just contact me via si.beer@fz-juelich.de.
