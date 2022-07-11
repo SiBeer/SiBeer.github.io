@@ -6,6 +6,8 @@ collection: portfolio
 
 ## Attenuation correction and image reconstruction for hybrid MRI/PET
 
+![Biograph mMR @ DLR](/images/mMR_DLR.jpg)
+
 ### About the project
 Combined Positron Emission Tomography (PET) and magnetic resonance imaging (MRI) using hybrid PET/MRI scanners offers unique chances to contribute to a better understanding of processes in basic brain research and to improve the understanding of pathophysiological mechanisms of neurological and psychiatric diseases. While PET provides metabolic information, MRI can provide anatomic information as well as information about physiological parameters, water diffusion, metabolite concentrations etc. Simultaneous acquisition of MRI and PET data correlates the data of the two complementary modalities both spatially as well as temporally and allows multifunctional and multiparametric imaging. 
 In cooperation with the Institute of Aerospace Medicine of the German Aerospace Center (DLR), we operate a hybrid MRI/PET scanner within [:envihab](https://www.dlr.de/envihab/en/desktopdefault.aspx/) (from the words ‘Environment’ and ‘Habitat’), a research facility to explore the effects of extreme environmental conditions on humans.
