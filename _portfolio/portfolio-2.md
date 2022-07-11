@@ -1,6 +1,6 @@
 ---
 title: "AI/ML"
-excerpt: "Using AI/ML, genetics and neuroimaging to target the glymphatic system<br/><br/><img src='/images/The-Blind-Men-and-the-Elephant.png' width='500'>"
+excerpt: "Using AI/ML, genetics and neuroimaging to target the glymphatic system<br/><br/><img src='/images/The-Blind-Men-and-the-Elephant.png' width='800'>"
 collection: portfolio
 ---
 ## Using AI/ML, genetics and neuroimaging to target the glymphatic system
