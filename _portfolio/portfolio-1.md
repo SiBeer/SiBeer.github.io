@@ -1,8 +1,9 @@
 ---
 title: "Neuroimaging"
-excerpt: "Methods development for PET and hybrid MRI/PET" 
+excerpt: "Methods development for PET and hybrid MRI/PET<br/><br/><img src='/images/mMR_DLR.jpg' height='100'>" 
 collection: portfolio
 ---
+
 
 
 ## Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
