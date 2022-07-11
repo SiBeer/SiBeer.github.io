@@ -30,6 +30,10 @@ We propose that synaptic density determined with PET has the power to become a b
 ### Methodological aspects
 Neuroreceptor PET studies are commonly analyzed by applying tracer kinetic models to the PET data, with the distribution volume (VT) or the binding potential (BP) as the outcome measure. Both reflect the densities of target proteins in a brain region of interest. A tracer kinetic model requires quantitative PET image data. We have therefore worked with our partner from the [ Molecular Imaging Center Antwerp](https://www.uantwerpen.be/en/research-groups/mica/) to improve and assess the image quality and quantitative accuracy for PET scans of freely moving, awake animals, with motion correction based on radioactive point sources.
 
+### Partners
+* Molecular Imaging Center Antwerp, University of Antwerp, Wilrijk, Belgium
+* McGill University, Douglas Hospital Research Center, McGill Centre for Studies in Aging, Translational Neuroimaging Laboratory, Montreal, Canada
+
 ### Funding
 This project is funded under the umbrella of the ERA-NET NEURON JTC 2017 ‘Synaptic Dysfunction’. 
 
