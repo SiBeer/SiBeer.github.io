@@ -1,12 +1,24 @@
 ---
 title: "Neuroimaging"
-excerpt: "Methods development for PET and hybrid MRI/PET<br/><br/><img src='/images/mMR_DLR.jpg' height='100'>" 
+excerpt: "Methods development and evaluation for PET and hybrid MRI/PET<br/><br/><img src='/images/mMR_DLR.jpg' height='100'>" 
 collection: portfolio
 ---
 
+## Attenuation correction and image reconstruction for hybrid MRI/PET
+
+### About the project
+Combined Positron Emission Tomography (PET) and magnetic resonance imaging (MRI) using hybrid PET/MRI scanners offers unique chances to contribute to a better understanding of processes in basic brain research and to improve the understanding of pathophysiological mechanisms of neurological and psychiatric diseases. While PET provides metabolic information, MRI can provide anatomic information as well as information about physiological parameters, water diffusion, metabolite concentrations etc. Simultaneous acquisition of MRI and PET data correlates the data of the two complementary modalities both spatially as well as temporally and allows multifunctional and multiparametric imaging. 
+
+### Methodological aspects
+Obviously, in spite of the concurrent MRI acquisition, the PET image quality and quantitative accuracy needs to meet the standards which are currently obtained with stand-alone PET or PET/CT. A major issue for artifact-free and quantitative PET imaging is the need to correct for the attenuation of photons in the body as well as in MRI coils and patient table. An accurate attenuation map is therefore essential for proper attenuation correction. 
+Hybrid MRI/PET allows also to use the anatomical information from MRI within the PET image reconstruction. 
+
+### Partners
+* Institute of Aerospace Medicine, German Aerospace Center (DLR), Cologne, Germany
+* Siemens MR, Siemens Healthcare, Erlangen, Germany
 
 
-## Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
+## SleepLess Project: Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
 
 ![SleepLess Partners](/images/SleepLess-Header_Logos.jpg)
 
@@ -16,7 +28,7 @@ Patients with major depression benefit from therapeutic sleep deprivation. The c
 We propose that synaptic density determined with PET has the power to become a biomarker for the success of therapeutic sleep deprivation and thus providing means for future stratifications of different therapies in major depression. Identifying and understanding the mechanisms that mediate the effects of sleep restriction is necessary to develop effective interventions. This project will test a model that can be used to improve schedule design.
 
 ### Methodological aspects
-Neuroreceptor PET studies are commonly analyzed by applying tracer kinetic models to the PET data, with the distribution volume (VT) or the binding potential (BP) as the outcome measure. Both reflect the densities of target proteins in a brain region of interest. A tracer kinetic model requires quantitative PET image data. We have therefore worked with the our partner from the [ Molecular Imaging Center Antwerp](https://www.uantwerpen.be/en/research-groups/mica/) to improve and assess the image quality and quantitative accuracy for PET scans of moving objects, with motion correction based on radioactive point sources.
+Neuroreceptor PET studies are commonly analyzed by applying tracer kinetic models to the PET data, with the distribution volume (VT) or the binding potential (BP) as the outcome measure. Both reflect the densities of target proteins in a brain region of interest. A tracer kinetic model requires quantitative PET image data. We have therefore worked with our partner from the [ Molecular Imaging Center Antwerp](https://www.uantwerpen.be/en/research-groups/mica/) to improve and assess the image quality and quantitative accuracy for PET scans of freely moving, awake animals, with motion correction based on radioactive point sources.
 
 ### Funding
 This project is funded under the umbrella of the ERA-NET NEURON JTC 2017 ‘Synaptic Dysfunction’. 
