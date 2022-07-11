@@ -1,6 +1,6 @@
 ---
 title: "AI/ML"
-excerpt: "Using AI/ML, genetics and neuroimaging to target the glymphatic system<br/><br/><img src='/images/The-Blind-Men-and-the-Elephant.png' height='100'> <p align = 'center' style='color:gray;font-size:5px'> Image: Daigneault, Pierre-Marc. (2013) Methodological Innovations Online. 28. 82-89. 10.4256/mio.2013.015. </p>"
+excerpt: "Using AI/ML, genetics and neuroimaging to target the glymphatic system<br/><br/><img src='/images/The-Blind-Men-and-the-Elephant.png' height='30'> <style='color:gray;font-size:5px'> Image: Daigneault, Pierre-Marc. (2013) Methodological Innovations Online. 28. 82-89. 10.4256/mio.2013.015. </style>"
 collection: portfolio
 ---
 ## Using AI/ML, genetics and neuroimaging to target the glymphatic system
