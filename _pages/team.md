@@ -35,22 +35,25 @@ I am always happy to welcome motivated people. Just contact me via si.beer@fz-ju
 * 2012 Maren Leppin	
 * 2011 Markus Michel	
 
-**Internships**
+**Internships / Scholarships**
 * 2020 Rebecca Kantorek	
-* 2019 Jaroslaw Schaller	
+* 2019 Jaroslaw Schaller
+* 2019 Maram Assaf		
 * 2018 Mariana Verholen	
+* 2017 Amal Al-saqqaf
 * 2015 Milad Eyvazi Hesar	
+* 2015 Moran Titelbaum	
+* 2014 Polina Kurtser	
+* 2013 Medhat Samuh	
+* 2012 Ariel Hoffman	
+* 2011 Basel Deeb
 * 2010 Markus Michel	
 * 2008 Mathew Divine	
 * 2006 Christine Steenkamp	
 * 2004 May Oehler	
 
-**Scholarships**
-* 2019 Maram Assaf	
-* 2017 Amal Al-saqqaf	
-* 2015 Moran Titelbaum	
-* 2014 Polina Kurtser	
-* 2013 Medhat Samuh	
-* 2012 Ariel Hoffman	
-* 2011 Basel Deeb	
+
+
+	
+	
 
