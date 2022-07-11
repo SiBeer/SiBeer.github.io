@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 
-
 ## Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
 
 ![SleepLess Partners](/images/SleepLess-Header_Logos.jpg)
