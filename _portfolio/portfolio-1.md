@@ -20,6 +20,7 @@ Hybrid MRI/PET allows also to use the anatomical information from MRI within the
 * Institute of Aerospace Medicine, German Aerospace Center (DLR), Cologne, Germany
 * Siemens MR, Siemens Healthcare, Erlangen, Germany
 
+---
 
 ## SleepLess Project: Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
 
