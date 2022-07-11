@@ -1,28 +1,26 @@
 ---
-title: "3D Printing"
-excerpt: "Phantom development for hybrid MRI/PET <br/><br/><img src='/images/Kiss200.jpg' width='100'>"
+title: "Neuroimaging"
+excerpt: "Methods development for PET and hybrid MRI/PET" 
 collection: portfolio
 ---
-## Phantom development for hybrid MRI/PET
 
+
+
+## Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
+
+![SleepLess Partners](/images/SleepLess-Header_Logos.jpg)
 
 ### About the project
-Phantom measurements for PET/MRI hybrid imaging, which combines MRI soft tissue morphological imaging with PET functional imaging, are of strong interest for improving, tuning and analyzing the performance of the scanners and can be used as a ground truth for method development and evaluation in attenuation and motion correction, image reconstruction and general image quality assessment. However, creating multimodal phantoms for use in simultaneous acquisition of PET and MRI remains challenging. The image contrast in PET is caused by radiotracer distribution, and in MRI by proton relaxation times. The materials used in one modality might produce strong artifacts in images from the other modality, or might even be completely invisible.
+Patients with major depression benefit from therapeutic sleep deprivation. The causality of this clinically effective therapeutic measure is unknown and the underlying molecular mechanisms remain elusive. We hypothesize that prolonged wakefulness is associated with an increase in synaptic strength, and that the synaptic dysregulation is affecting long term potentiation in patients with major depression. The aim of the project is to examine the synaptic basis of the antidepressant effect of therapeutic sleep deprivation by Positron Emission Tomography (PET) imaging of the synaptic vesicle protein 2A (SV2A) as a measure of synaptic density in patients and healthy subjects as well as animal models of depression. Since both anesthesia and sleep are subject to compromise biologically valid outcomes when studying the synaptic basis of therapeutic sleep deprivation, a fully quantitative PET imaging method for awake animals will be developed.
+
+We propose that synaptic density determined with PET has the power to become a biomarker for the success of therapeutic sleep deprivation and thus providing means for future stratifications of different therapies in major depression. Identifying and understanding the mechanisms that mediate the effects of sleep restriction is necessary to develop effective interventions. This project will test a model that can be used to improve schedule design.
 
 ### Methodological aspects
-We examine materials, compositions and construction options using 3D printing, to build a PET phantom with tissue equivalent properties for MRI. We operate a KISS200 3D printer with dual extruder, optimized for printing experimental materials. 
+Neuroreceptor PET studies are commonly analyzed by applying tracer kinetic models to the PET data, with the distribution volume (VT) or the binding potential (BP) as the outcome measure. Both reflect the densities of target proteins in a brain region of interest. A tracer kinetic model requires quantitative PET image data. We have therefore worked with the our partner from the [ Molecular Imaging Center Antwerp](https://www.uantwerpen.be/en/research-groups/mica/) to improve and assess the image quality and quantitative accuracy for PET scans of moving objects, with motion correction based on radioactive point sources.
 
 ### Funding
-This project was funded in part by the [Palestinian-German Science Bridge](https://www.palast.ps/en/what-we-do/science-bridges/pgsb).
+This project is funded under the umbrella of the ERA-NET NEURON JTC 2017 ‘Synaptic Dysfunction’. 
 
-![Palestinian German Science Bridge](/images/PGSB Logo_0.jpg)
+![SleepLess Partners BMBF FRQS FWO](/images/SleepLess_partners.png)
 
-**Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020, awarded with "Best presentation for PhD Candidate"**
-<iframe width="280" height="157" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Partners
-* Central Institute for Engineering, Electronics and Analytics -Engineering and Technology (ZEA-1), Forschungszentrum Jülich
-* Palestine Technical University – Kadoorie (PTUK)
-* Rheinisch-Westfälische Technische Hochschule Aachen (RWTH-Aachen)
-* Imaging Core Facility (ICF), Forschungszentrum Jülich
-* Jülich Centre for Neutron Science (JCNS), Forschungszentrum Jülich
+More on the SleepLess Project: [www.sleepless.pet](http://sleepless.pet/)
