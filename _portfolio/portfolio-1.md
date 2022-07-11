@@ -4,7 +4,7 @@ excerpt: "Methods development and evaluation for PET and hybrid MRI/PET<br/><br/
 collection: portfolio
 ---
 
-## Attenuation correction and image reconstruction for hybrid MRI/PET
+## I. Attenuation correction and image reconstruction for hybrid MRI/PET
 
 ![Biograph mMR @ DLR](/images/mMR_DLR.jpg)
 
@@ -14,7 +14,7 @@ Combined Positron Emission Tomography (PET) and magnetic resonance imaging (MRI)
 
 
 ### Methodological aspects
-Obviously, in spite of the concurrent MRI acquisition, the PET image quality and quantitative accuracy needs to meet the standards which are currently obtained with stand-alone PET or PET/CT. A major issue for artifact-free and quantitative PET imaging is the need to correct for the attenuation of photons in the body as well as in MRI coils and patient table. An accurate attenuation map is therefore essential for proper attenuation correction. 
+In spite of the concurrent MRI acquisition, the PET image quality and quantitative accuracy needs to meet the standards which are currently obtained with stand-alone PET or PET/CT. A major issue for artifact-free and quantitative PET imaging is the need to correct for the attenuation of photons in the body as well as in MRI coils and patient table. An accurate attenuation map is therefore essential for proper attenuation correction. 
 Hybrid MRI/PET allows also to use the anatomical information from MRI within the PET image reconstruction. 
 
 ### Partners
@@ -23,7 +23,7 @@ Hybrid MRI/PET allows also to use the anatomical information from MRI within the
 
 ---
 
-## SleepLess Project: Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
+## II. SleepLess Project: Imaging synaptic plasticity in therapeutic sleep deprivation for major depression
 
 ![SleepLess Partners](/images/SleepLess-Header_Logos.jpg)
 
