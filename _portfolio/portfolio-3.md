@@ -1,6 +1,6 @@
 ---
 title: "3D Printing"
-excerpt: "Phantom development for hybrid MRI/PET <br/><br/><p align='center'><img src='/images/Kiss200.jpg' width='200'></p>"
+excerpt: "Phantom development for hybrid MRI/PET <br/><br/><img src='/images/Kiss200.jpg' width='200'>"
 collection: portfolio
 ---
 
