@@ -1,6 +1,6 @@
 ---
 title: "Neuroimaging"
-excerpt: "Methods development and evaluation for PET and hybrid MRI/PET<br/><br/><img src='/images/mMR_DLR.jpg' height='100'> " 
+excerpt: "Methods development and evaluation for PET and hybrid MRI/PET" 
 collection: portfolio
 ---
 

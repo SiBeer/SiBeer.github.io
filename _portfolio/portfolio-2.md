@@ -1,10 +1,10 @@
 ---
 title: "AI/ML"
-excerpt: "Using explainable AI, genetics and neuroimaging to target the glymphatic system<br/><br/><img src='/images/The-Blind-Men-and-the-Elephant.png' width='800'>"
+excerpt: "Using explainable AI, genetics and neuroimaging to target the glymphatic system"
 collection: portfolio
 ---
 ## Using explainable AI, genetics and neuroimaging to target the glymphatic system
-
+<img src='/images/The-Blind-Men-and-the-Elephant.png' width='800'>
 
 ### About the project
 The glymphatic system is a brain-wide perivascular clearance pathway which facilitates the clearance of A$\beta$, a pathological hallmark of Alzheimer's disease, from the brain. It is regulated by the sleep-wake cycle. The function of the glymphatic system relies highly on the water channel aquaporin 4 (AQP4), which is expressed by the AQP4 gene.

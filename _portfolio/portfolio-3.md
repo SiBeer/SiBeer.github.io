@@ -1,6 +1,6 @@
 ---
 title: "3D Printing"
-excerpt: "Phantom development for hybrid MRI/PET <br/><br/><img src='/images/Kiss200.jpg' width='200'>"
+excerpt: "Phantom development for hybrid MRI/PET"
 collection: portfolio
 ---
 
@@ -12,7 +12,8 @@ Phantom measurements for PET/MRI hybrid imaging, which combines MRI soft tissue 
 
 ### Methodological aspects
 We examine materials, compositions and construction options using 3D printing, to build a PET phantom with tissue equivalent properties for MRI. We operate a KISS200 3D printer with dual extruder, optimized for printing experimental materials. 
-
+ <br/><img src='/images/Kiss200.jpg' width='200'>
+ 
 ### Funding
 This project was funded in part by the [Palestinian-German Science Bridge](https://www.palast.ps/en/what-we-do/science-bridges/pgsb).
 
