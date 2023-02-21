@@ -8,6 +8,8 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
+Chu, C., S. C. Holst, E.-M. Elmenhorst, A. L. Foerges, C. Li, D. Lange, E. Hennecke, D. M. Baur, S. Beer, F. Hoffstaedter, G. M. Knudsen, D. Aeschbach, A. Bauer, H.-P. Landolt, D. Elmenhorst (2023). "Total sleep deprivation increases brain age prediction reversibly in multi-site samples of young healthy adults." JNeurosci, JN-RM-0790-22; DOI: 10.1523/JNEUROSCI.0790-22.2023 
+
 Pierling, A. L., E.-M. Elmenhorst, D. Lange, E. Hennecke, D. M. Baur, S. Beer, T. Kroll, B. Neumaier, D. Aeschbach, A. Bauer, H.-P. Landolt and D. Elmenhorst (2021). "Cerebral A1 adenosine receptor availability in female and male participants and its relationship to sleep." NeuroImage 245: 118695.
 
 Willuweit, A., M. Schöneck, S. Schemmert, P. Lohmann, S. Bremen, D. Honold, N. Burda, N. Jiang, S. Beer, J. Ermert, D. Willbold, N. J. Shah and K.-J. Langen (2021). "Comparison of the Amyloid Load in the Brains of Two Transgenic Alzheimer’s Disease Mouse Models Quantified by Florbetaben Positron Emission Tomography." Frontiers in Neuroscience 15.
