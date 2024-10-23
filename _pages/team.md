@@ -3,6 +3,9 @@ permalink: /team/
 title: "Team"
 ---
 
+**Master students**
+Lea Hengstler
+
 I am always happy to welcome motivated people. Just contact me via si.beer@fz-juelich.de.
 
 ## Alumni
