@@ -4,7 +4,7 @@ title: "Team"
 ---
 
 **Master students**
-Lea Hengstler
+* Lea Hengstler
 
 I am always happy to welcome motivated people. Just contact me via si.beer@fz-juelich.de.
 
