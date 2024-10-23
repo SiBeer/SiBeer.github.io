@@ -1,30 +1,21 @@
 ---
-title: "3D Printing"
-excerpt: "Phantom development for hybrid MRI/PET"
+title: "Attenuation correction and image reconstruction for hybrid MRI/PET"
+excerpt: "" 
 collection: portfolio
 ---
+## Attenuation correction and image reconstruction for hybrid MRI/PET
 
-## Phantom development for hybrid MRI/PET
-
+![Biograph mMR @ DLR](/images/mMR_DLR.jpg)
 
 ### About the project
-Phantom measurements for PET/MRI hybrid imaging, which combines MRI soft tissue morphological imaging with PET functional imaging, are of strong interest for improving, tuning and analyzing the performance of the scanners and can be used as a ground truth for method development and evaluation in attenuation and motion correction, image reconstruction and general image quality assessment. However, creating multimodal phantoms for use in simultaneous acquisition of PET and MRI remains challenging. The image contrast in PET is caused by radiotracer distribution, and in MRI by proton relaxation times. The materials used in one modality might produce strong artifacts in images from the other modality, or might even be completely invisible.
+In cooperation with the Institute of Aerospace Medicine of the German Aerospace Center (DLR), we operate a hybrid MRI/PET scanner within [:envihab](https://www.dlr.de/envihab/en/desktopdefault.aspx/) (from the words ‘Environment’ and ‘Habitat’), a research facility to explore the effects of extreme environmental conditions on humans.
+Combined Positron Emission Tomography (PET) and magnetic resonance imaging (MRI) using hybrid PET/MRI scanners offers unique chances to contribute to a better understanding of processes in basic brain research and to improve the understanding of pathophysiological mechanisms of neurological and psychiatric diseases. While PET provides metabolic information, MRI can provide anatomic information as well as information about physiological parameters, water diffusion, metabolite concentrations etc. Simultaneous acquisition of MRI and PET data correlates the data of the two complementary modalities both spatially as well as temporally and allows multifunctional and multiparametric imaging. 
+
 
 ### Methodological aspects
-We examine materials, compositions and construction options using 3D printing, to build a PET phantom with tissue equivalent properties for MRI. We operate a KISS200 3D printer with dual extruder, optimized for printing experimental materials. 
- <br/><img src='/images/Kiss200.jpg' width='200'>
- 
-### Funding
-This project was funded in part by the [Palestinian-German Science Bridge](https://www.palast.ps/en/what-we-do/science-bridges/pgsb).
-
-![Palestinian German Science Bridge](/images/PGSB Logo_0.jpg)
-
-**Presentation of my PhD Student Lotfi Talalwa during the PGSB Fellows and Alumni Award Competition 2020, awarded with "Best presentation for PhD Candidate"**
-<iframe width="280" height="157" src="https://www.youtube.com/embed/q94ewOgIgXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+In spite of the concurrent MRI acquisition, the PET image quality and quantitative accuracy needs to meet the standards which are currently obtained with stand-alone PET or PET/CT. A major issue for artifact-free and quantitative PET imaging is the need to correct for the attenuation of photons in the body as well as in MRI coils and patient table. An accurate attenuation map is therefore essential for proper attenuation correction. 
+Hybrid MRI/PET allows also to use the anatomical information from MRI within the PET image reconstruction. 
 
 ### Partners
-* Central Institute for Engineering, Electronics and Analytics -Engineering and Technology (ZEA-1), Forschungszentrum Jülich
-* Palestine Technical University – Kadoorie (PTUK)
-* Rheinisch-Westfälische Technische Hochschule Aachen (RWTH-Aachen)
-* Imaging Core Facility (ICF), Forschungszentrum Jülich
-* Jülich Centre for Neutron Science (JCNS), Forschungszentrum Jülich
+* Institute of Aerospace Medicine, German Aerospace Center (DLR), Cologne, Germany
+* Siemens MR, Siemens Healthcare, Erlangen, Germany
