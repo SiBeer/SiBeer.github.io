@@ -8,6 +8,14 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
+Simone Beer, David Elmenhorst, Gerard N. Bischof, Alfredo Ramirez, Andreas Bauer, Alexander Drzezga,
+Explainable artificial intelligence identifies an AQP4 polymorphism-based risk score associated with brain amyloid burden,
+Neurobiology of Aging, Volume 143, 2024, Pages 19-29, DOI:10.1016/j.neurobiolaging.2024.08.002.
+
+Kroll T, Miranda A, Drechsel A, et al. Dynamic neuroreceptor positron emission tomography in non-anesthetized rats using point source based motion correction: A feasibility study with [11C]ABP688. Journal of Cerebral Blood Flow & Metabolism. 2024;44(10):1852-1866. doi:10.1177/0271678X241239133
+
+Naemi L. Tichelman, Anna L. Foerges, Eva-Maria Elmenhorst, Denise Lange, Eva Hennecke, Diego M. Baur, Simone Beer, Tina Kroll, Bernd Neumaier, Andreas Bauer, Hans-Peter Landolt, Daniel Aeschbach, David Elmenhorst (2023). "A genetic variation in the adenosine A2A receptor gene contributes to variability in oscillatory alpha power in wake and sleep EEG and A1 adenosine receptor availability in the human brain." NeuroImage, Volume 280, 120345; DOI: 10.1016/j.neuroimage.2023.120345 
+
 Chu, C., S. C. Holst, E.-M. Elmenhorst, A. L. Foerges, C. Li, D. Lange, E. Hennecke, D. M. Baur, S. Beer, F. Hoffstaedter, G. M. Knudsen, D. Aeschbach, A. Bauer, H.-P. Landolt, D. Elmenhorst (2023). "Total sleep deprivation increases brain age prediction reversibly in multi-site samples of young healthy adults." JNeurosci, JN-RM-0790-22; DOI: 10.1523/JNEUROSCI.0790-22.2023 
 
 Pierling, A. L., E.-M. Elmenhorst, D. Lange, E. Hennecke, D. M. Baur, S. Beer, T. Kroll, B. Neumaier, D. Aeschbach, A. Bauer, H.-P. Landolt and D. Elmenhorst (2021). "Cerebral A1 adenosine receptor availability in female and male participants and its relationship to sleep." NeuroImage 245: 118695.
