@@ -1,6 +1,6 @@
 ---
 title: "Phantom development for hybrid MRI/PET"
-excerpt: ""
+excerpt: "Phantom measurements for PET/MRI hybrid imaging, which combines MRI soft tissue morphological imaging with PET functional imaging, are of strong interest for improving, tuning and analyzing the performance of the scanners and can be used as a ground truth for method development and evaluation in attenuation and motion correction, image reconstruction and general image quality assessment. However, creating multimodal phantoms for use in simultaneous acquisition of PET and MRI remains challenging. The image contrast in PET is caused by radiotracer distribution, and in MRI by proton relaxation times. The materials used in one modality might produce strong artifacts in images from the other modality, or might even be completely invisible."
 collection: portfolio
 ---
 ## Phantom development for hybrid MRI/PET
