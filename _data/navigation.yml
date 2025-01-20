@@ -12,6 +12,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Team"
-    url: /team/
+#  - title: "Team"
+#    url: /team/
 
