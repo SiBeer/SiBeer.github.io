@@ -8,6 +8,18 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=40pXi6wAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</u>
 
+Denise Lange, Eva Hennecke, Katharina Thiel, Bernd Neumaier, Simone Beer, Andreas Bauer, Daniel Aeschbach, David Elmenhorst, Eva-Maria Elmenhorst, 
+Chronic sleep loss and A1 adenosine receptors in the human brain, 
+Sleep, Volume 49, Issue 6, June 2026, zsag012, https://doi.org/10.1093/sleep/zsag012
+
+Ali Gordji-Nejad; Andreas Matusch; Lea Hengstler; Simone Beer; Tina Kroll; Sabine Klein; David Elmenhorst; Andreas Bauer; Alexander Drzezga, 
+Single-Dose Creatine Reduces Sleep Deprivation-Induced Deterioration in Cognitive Performance,
+Nutrients 2026, 18(8), 1192; https://doi.org/10.3390/nu18081192
+
+Manuel Michno; Jan Schmitz; Anna L. Foerges; Simone Beer; Jens Jordan; Bernd Neumaier; Alexander Drzezga; Daniel Aeschbach; Andreas Bauer; Jens Tank et al. 
+Effect of Acute Hypoxia Exposure on the Availability of A<sub>1</sub>Adenosine Receptors and Perfusion in the Human Brain
+Journal of Nuclear Medicine 2025, 66 (1) 142-149; DOI: https://doi.org/10.2967/jnumed.124.268455 
+
 Simone Beer, David Elmenhorst, Gerard N. Bischof, Alfredo Ramirez, Andreas Bauer, Alexander Drzezga,
 Explainable artificial intelligence identifies an AQP4 polymorphism-based risk score associated with brain amyloid burden,
 Neurobiology of Aging, Volume 143, 2024, Pages 19-29, DOI:10.1016/j.neurobiolaging.2024.08.002.
