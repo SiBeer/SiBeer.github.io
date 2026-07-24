@@ -17,3 +17,8 @@ Machine learning algorithms like decision trees or tree ensembles can learn patt
 ### Partners
 * Division of Neurogenetics and Molecular Psychiatry, Department of Psychiatry, Medical Faculty, University of Cologne
 
+### Publications
+Simone Beer, David Elmenhorst, Gerard N. Bischof, Alfredo Ramirez, Andreas Bauer, Alexander Drzezga,
+Explainable artificial intelligence identifies an AQP4 polymorphism-based risk score associated with brain amyloid burden,
+Neurobiology of Aging, Volume 143, 2024, Pages 19-29, DOI:10.1016/j.neurobiolaging.2024.08.002.
+
