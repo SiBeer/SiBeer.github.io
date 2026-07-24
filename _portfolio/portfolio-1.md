@@ -16,4 +16,4 @@ Machine learning algorithms like decision trees or tree ensembles can learn patt
 
 ### Partners
 * Division of Neurogenetics and Molecular Psychiatry, Department of Psychiatry, Medical Faculty, University of Cologne
-* Helmholtz AI - Artificial Intelligence Cooperation Unit 
+
