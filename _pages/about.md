@@ -14,3 +14,5 @@ Today, my research focuses on the impact of sleep, circadian variation and lifes
 
 I believe that some of the most interesting scientific questions arise at the boundaries between disciplines, where different ways of thinking complement each other and open new perspectives on complex biological systems.
 
+<img src='/images/The-Blind-Men-and-the-Elephant.png' width='800'>
+
