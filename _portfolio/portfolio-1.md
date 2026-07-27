@@ -1,6 +1,8 @@
 ---
 title: "Using AI, genetics and neuroimaging to target the glymphatic system"
-excerpt: "Can naturally occurring genetic variation reveal molecular regulators of glymphatic function?"
+excerpt: "Can naturally occurring genetic variation reveal molecular regulators of glymphatic function?
+We use explainable AI on large population-based datasets to study the impact of variations of genes associated with glymphatic clearance on measures of neurodegeneration like amyloid PET. 
+"
 collection: portfolio
 ---
 ## Using AI, genetics and neuroimaging to target the glymphatic system

@@ -1,6 +1,6 @@
 ---
 title: "Spatiotemporal regulation of AQP4 polarization and its relation to sleep"
-excerpt: "How is AQP4 polarization regulated?" 
+excerpt: "How is AQP4 polarization regulated? We use methods of molecular biology to study how AQP4 polarization and AQP4 isoforms vary across brain regions, throughout the circadian cycle and in different sleep conditions." 
 collection: portfolio
 ---
 ## Spatiotemporal regulation of AQP4 polarization and its relation to sleep
