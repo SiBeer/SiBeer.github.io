@@ -1,27 +1,15 @@
 ---
-title: "Using AI, genetics and neuroimaging to target the glymphatic system"
-excerpt: "Can naturally occurring genetic variation reveal molecular regulators of glymphatic function?
-We use explainable AI on large population-based datasets to study the impact of variations of genes associated with glymphatic clearance on measures of neurodegeneration like amyloid PET. 
-"
+title: "Spatiotemporal regulation of AQP4 polarization and its relation to sleep"
+excerpt: "How is AQP4 polarization regulated? We use methods of molecular biology to study how AQP4 polarization and AQP4 isoforms vary across brain regions, throughout the circadian cycle and in different sleep conditions." 
 collection: portfolio
 ---
-## Using AI, genetics and neuroimaging to target the glymphatic system
+## Spatiotemporal regulation of AQP4 polarization and its relation to sleep
 
-The glymphatic system is a brain-wide perivascular clearance pathway which facilitates the clearance of A$\beta$, a pathological hallmark of Alzheimer's disease, from the brain. The function of the glymphatic system relies highly on the water channel aquaporin 4 (AQP4), a protein which is expressed by the AQP4 gene.
-Identifying genetic variants of risk with respect to the function of the glymphatic system and the role of sleep on its function, and defining genetically stratified groups to identify suitable candidates for future studies will aid in the investigation of a link between sleep and neurodegeneration. However, the effects of single genetic variants are typically very small. Additionally the interaction between genes or single nucleotide polymorphisms (SNPs), as well as gene-environment interactions might impede the declaration of single genetic variants as statistically significant.  
+A central determinant of glymphatic transport is the polarized localization of the water channel Aquaporin-4 (AQP4) at astrocytic endfeet surrounding cerebral blood vessels. While loss of AQP4 polarization has repeatedly been associated with impaired glymphatic function, surprisingly little is known about how AQP4 polarization itself is physiologically regulated.
 
-#### Explainable AI
-Machine learning algorithms like decision trees or tree ensembles can learn patterns in data and are therefore promising tools to address the interactions of genes, environment and lifestyle with respect to a certain trait or disease. Explainable AI (XAI) is an emerging area of research in the field of AI. Explainability gives insight into ML models, especially into the decision processes, and might therefore aid in scientific discovery. The explanations can refer to feature importance and feature effect, which indicates the direction and magnitude the feature value has on the predicted outcome, as well as the interaction of features. Different XAI methods might provide complementary information. 
-We use explainable AI on large population-based datasets to study the impact of variations of genes associated with glymphatic clearance on measures of neurodegeneration like amyloid PET. 
+We investigate the principles governing AQP4 polarization in the healthy brain. Using immunofluorescence and Western blot, we study in experimental animal models how AQP4 polarization and AQP4 isoforms vary across brain regions, throughout the circadian cycle and in different sleep conditions.
 
-#### Interpreting impact of genetic variation using AI models
-We then use deep learning models to analyze the regulatory aspects of the genetic variation and to study the impact of variants on gene expression. This helps us to find possible mechanistic interpretations for the interaction of SNPs.
 
-### Partners
-* Division of Neurogenetics and Molecular Psychiatry, Department of Psychiatry, Medical Faculty, University of Cologne
 
-### Publications
-Simone Beer, David Elmenhorst, Gerard N. Bischof, Alfredo Ramirez, Andreas Bauer, Alexander Drzezga,
-Explainable artificial intelligence identifies an AQP4 polymorphism-based risk score associated with brain amyloid burden,
-Neurobiology of Aging, Volume 143, 2024, Pages 19-29, DOI:10.1016/j.neurobiolaging.2024.08.002.
+
 
